@@ -12,4 +12,4 @@ The script consists of the following components:
 
 3. **Data Population**: Sample data is provided to populate the tables, showcasing how the structure can handle real-world order scenarios. This populated data can serve as a reference for testing and analysis.
 
-Thanks You
+Thank You
